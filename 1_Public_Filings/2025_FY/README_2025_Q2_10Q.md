@@ -1,0 +1,3 @@
+**Filing Date:** c. August 7, 2025 
+
+**MD&A Summary:** Management reports a "solid second quarter," indicating a revenue beat against the new, lower expectations. A "highest ever gross profit quarter" is highlighted , likely due to cost-cutting and core Crocs-brand strength before the new tariffs are fully implemented. Capital Allocation : The core business continues to be a cash-flow engine, funding $133 million in share repurchases and $105 million in debt paydown.
