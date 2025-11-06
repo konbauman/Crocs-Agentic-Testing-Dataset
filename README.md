@@ -1,4 +1,4 @@
-**Dataset Title:** Crocs, Inc. (CROX) Agentic Scenario Planning Datase
+**Dataset Title:** Crocs, Inc. (CROX) Agentic Scenario Planning Dataset
 
 **As-Of-Date:** November 6, 2025
 
