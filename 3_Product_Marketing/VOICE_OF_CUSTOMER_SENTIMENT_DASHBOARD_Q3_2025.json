@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Crocs",
+    "attribute": "Comfort",
+    "sentiment": 0.85,
+    "mentions": 15200,
+    "key_topics": ["classic", "all-day", "mellow"]
+  },
+  {
+    "brand": "HEYDUDE",
+    "attribute": "Comfort",
+    "sentiment": 0.60,
+    "mentions": 4500,
+    "key_topics": ["lightweight", "like-slippers", "wears-out-fast"]
+  },
+  {
+    "brand": "HEYDUDE",
+    "attribute": "Style",
+    "sentiment": 0.35,
+    "mentions": 3100,
+    "key_topics": ["everyone-has-them", "dad-shoe", "sloppy", "lost-heat"]
+  },
+  {
+    "brand": "HEYDUDE",
+    "attribute": "Value",
+    "sentiment": 0.25,
+    "mentions": 2900,
+    "key_topics": ["expensive-for-what-it-is", "falls-apart", "buy-on-sale-only"]
+  },
+  {
+    "brand": "Oofos",
+    "attribute": "Comfort",
+    "sentiment": 0.92,
+    "mentions": 2800,
+    "key_topics": ["recovery", "plantar-fasciitis", "cloud", "worth-it"]
+  },
+  {
+    "brand": "Hoka",
+    "attribute": "Comfort",
+    "sentiment": 0.90,
+    "mentions": 3500,
+    "key_topics": ["recovery-slide", "max-cushion", "podiatrist"]
+  }
+]

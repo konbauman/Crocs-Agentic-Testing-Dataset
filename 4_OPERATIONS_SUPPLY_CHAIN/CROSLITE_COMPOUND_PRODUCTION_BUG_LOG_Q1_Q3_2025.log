@@ -1,0 +1,9 @@
+2025-02-14 14:30:02 ERROR: Batch 481-C (Vietnam) density check failed. Value: 1.12 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio. 
+2025-02-16 09:15:44 WARN: Batch 483-A (China) color consistency off-spec. Color_Drift: 4.2 delta-E. Action: Approved w/ deviation. RootCause: Pigment contamination.
+2025-03-01 17:22:01 ERROR: Batch 502-C (Vietnam) density check failed. Value: 1.15 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio. 
+2025-03-15 10:01:19 INFO: Switched Batch 515-C (Vietnam) back to 100% legacy compound. Density check: 1.05 g/cm^3. Action: Batch approved.
+2025-04-10 14:33:00 ERROR: Batch 562-C (Vietnam) density check failed. Value: 1.10 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio. 
+2025-05-15 08:30:55 ERROR: Batch 605-I (Indonesia) density check failed. Value: 1.11 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio. 
+2025-06-20 11:12:00 WARN: Production line C-4 (Vietnam) halted. Bio-circular compound mix causing injector nozzle clogs. Downtime: 4 hours.
+2025-08-04 16:05:00 ERROR: Batch 766-C (Vietnam) density check failed. Value: 1.13 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio. 
+2025-09-19 14:00:12 ERROR: Batch 801-I (Indonesia) density check failed. Value: 1.14 g/cm^3 (Expected: 1.05). Action: Batch rejected. RootCause: Bio-circular compound mix ratio.
